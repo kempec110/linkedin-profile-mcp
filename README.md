@@ -1,3 +1,13 @@
+
+## ⚠️ Important Notice: API Discontinuation
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-NO_LONGER_WORKING-red.svg?style=for-the-badge">
+</p>
+
+**As of July 16, 2025, the RapidAPI LinkedIn Data API endpoints used by this project have been discontinued at the request of LinkedIn.** This means the current version of the **LinkedIn Profile Explorer MCP no longer functions as described.**
+
+A new solution has been prepared by the API provider and I also have a potential workaround available. If you are interested in getting this tool to work please **reach out to me directly at thang@growth3.net** for more information.
+
 # LinkedIn Profile Explorer MCP
 
 A comprehensive LinkedIn data extraction MCP (Model Context Protocol) server that integrates seamlessly with Claude Desktop. Fetch, explore, and search through LinkedIn posts and comments with powerful filtering and discovery tools.
