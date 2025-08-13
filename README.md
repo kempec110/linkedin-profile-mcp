@@ -8,7 +8,7 @@
 
 A new solution has been prepared by the API provider and I also have a potential workaround available. If you are interested in getting this tool to work please **reach out to me directly at thang@growth3.net** for more information.
 
-# LinkedIn Profile Explorer MCP
+# LinkedIn Data Explorer MCP
 
 A comprehensive LinkedIn data extraction MCP (Model Context Protocol) server that integrates seamlessly with Claude Desktop. Fetch, explore, and search through LinkedIn posts and comments with powerful filtering and discovery tools.
 
@@ -32,7 +32,7 @@ This MCP server transforms Claude Desktop into a powerful LinkedIn data explorat
 - Filter posts by date range
 - Paginated access to large datasets
 
-### Comment Exploration
+### Comment Exploration *(New!)*
 - **Complete Comment Threads**: Fetch posts with all their comments in one go
 - **Paginated Comment Loading**: Handle large comment threads efficiently
 - **Comment Search**: Find specific discussions across all saved data
@@ -55,13 +55,16 @@ This MCP server transforms Claude Desktop into a powerful LinkedIn data explorat
 4. **Choose Plan**: Select a plan (free tier available for testing)
 5. **Get Your Key**: Copy your RapidAPI key from the dashboard
 
+
 ### Step 2: Download and Setup
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/kempec110/linkedin-profile-mcp.git
-   cd linkedin-mcp
+   cd linkedin-profile-mcp
    ```
+   
+   *Or download the ZIP file from the repository and extract it to your desired location.*
 
 2. **Install Python Dependencies**:
    ```bash
@@ -252,14 +255,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**kempec110** - [GitHub Profile](https://github.com/kempec110)
+**Thang Doan** - [Email](mailto:thang@growth3.net)
 
 ## 🙏 Acknowledgments
 
-- **rugvedp** - Original LinkedIn MCP implementation and foundation
+- **rugvedp** - for the original LinkedIn MCP implementation and foundation 🫡
 - **RapidAPI** - Providing reliable LinkedIn data access
 - **Anthropic** - Claude AI platform and MCP framework
-- **LinkedIn Data API** - Comprehensive LinkedIn data endpoints
 
 ## 📈 API Integration Details
 
