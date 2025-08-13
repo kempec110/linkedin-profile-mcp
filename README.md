@@ -59,7 +59,7 @@ This MCP server transforms Claude Desktop into a powerful LinkedIn data explorat
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kempec110/linkedin-mcp.git
+   git clone https://github.com/kempec110/linkedin-profile-mcp.git
    cd linkedin-mcp
    ```
 
